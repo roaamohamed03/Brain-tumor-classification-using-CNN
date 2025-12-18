@@ -47,10 +47,12 @@ The dataset used in this project is from kaggle:
 
 ---
 
-## Student Contributors
+## Contributors
 
-- Student 1: Aya Ahmed 
-- Student 2: Esraa Nasser
-- Student 3: Amina Amer
-- Student 4: Habiba Mohamed
-- Student 5: Roaa Mohamed
+- Aya Ahmed 
+- Esraa Nasser
+- Amina Amer
+- Habiba Mohamed
+- Roaa Mohamed
+
+
